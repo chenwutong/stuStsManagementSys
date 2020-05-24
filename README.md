@@ -19,7 +19,7 @@ web开发课程期末的一次作业
 
 ## 使用说明
 
-使用phpstudy可以简单使用 需要nginx和mysql
+使用phpstudy可以简单使用 需要nginx和mysql.
 
 ## 徽章
 
