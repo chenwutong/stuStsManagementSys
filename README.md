@@ -37,4 +37,4 @@ web开发课程期末的一次作业
 
 ## 使用许可
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE) © wutongchen
