@@ -1,0 +1,23 @@
+.admintitle{
+    background-color: rgb(207, 248, 248);
+    color: rgb(197, 107, 107);
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 140px;
+    line-height: 140px;
+}
+
+
+.dashboard{
+    background-color: rgb(207, 248, 248);
+    color:rgb(170, 73, 73);
+    margin-left:50px;
+    margin-right: 50px;
+    height: 140px;
+    font-size: 25px;
+    
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
